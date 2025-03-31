@@ -1,0 +1,1 @@
+This houses all of the entity registration files and documentation for use as examples for AiKA.
