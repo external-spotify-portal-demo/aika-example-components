@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: storage
+  description: Storage system
+spec:
+  owner: kubecon-squad
+  domain: infrastructure
+  type: service

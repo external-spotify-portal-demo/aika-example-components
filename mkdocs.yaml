@@ -1,0 +1,9 @@
+site_name: 'Large File Storage System'
+site_description: 'Docs site for LFS system'
+
+nav:
+  - Introduction: index.md
+  - FAQ: faq.md
+
+plugins:
+  - techdocs-core

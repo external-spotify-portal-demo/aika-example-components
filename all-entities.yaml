@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: example-aika-components
+  description: A collection of all AiKA example components
+spec:
+  targets:
+    - domain-info.yaml
+    - system-info.yaml
+    - catalog-info.yaml

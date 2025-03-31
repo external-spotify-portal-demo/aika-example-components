@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: infrastructure
+  description: Everything related to file serving infrastructure
+  links:
+    - url: http://example.com/domain/infrastructure/
+      title: Infrastructure Readme
+    - url: http://example.com/domains/infrastructure/dashboard
+      title: Infrastructure Metrics Dashboard
+      icon: dashboard
+spec:
+  owner: kubecon-squad
